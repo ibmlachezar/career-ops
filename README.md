@@ -1,4 +1,4 @@
-# ♟ PM Career Ops
+# ♟ Career Ops
 
 **AI-powered job search system for people who want an edge.**
 
