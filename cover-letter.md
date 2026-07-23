@@ -1,4 +1,4 @@
-# Skill: Cover Letter Writer
+### Skill: Cover Letter Writer
 
 ## What this does
 Writes a cover letter that sounds like a real human wrote it — not a template.
